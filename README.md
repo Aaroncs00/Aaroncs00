@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aaron.
 - 👀 I’m interested in learn and share information.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning JS/Python/C++.
 - 📫 Instagram: aarikolol
 - 📫 Mail: aaroncase00@gmail.com
